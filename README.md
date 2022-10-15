@@ -22,3 +22,19 @@ The focus of the notes is some important and difficult to understand knowledge p
 [English](EN)
 
 [简体中文](README.zh-CN.md)
+
+
+### Directory structure
+
+```
+├── EN
+├── LICENSE
+├── README.md
+├── README.zh-CN.md
+└── zh-CN
+    ├── base-features.md
+    ├── ownership.md
+    └── variable.md
+
+2 directories, 6 files
+```
