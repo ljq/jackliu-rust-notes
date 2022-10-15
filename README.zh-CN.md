@@ -17,7 +17,23 @@
 | Blog | defense.ink |
 
 #### 语言文档
+
 [English](EN)
 
 [中文](zh-CN)
 
+
+### 目录结构
+
+```
+├── EN
+├── LICENSE
+├── README.md
+├── README.zh-CN.md
+└── zh-CN
+    ├── base-features.md
+    ├── ownership.md
+    └── variable.md
+
+2 directories, 6 files
+```
