@@ -14,7 +14,7 @@ The focus of the notes is some important and difficult to understand knowledge p
 | WeChat | labsec |
 | Blog | defense.ink |
 
-###### I love Rust，efficient, practical, engineered ...
+###### I love Rust，system-level programming language, rigorous，efficient, practical, engineered ...
 
 ###### The world of programming should be pluralistic, free from any one mindset. 
 
