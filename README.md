@@ -29,13 +29,18 @@ The focus of the notes is some important and difficult to understand knowledge p
 
 ```
 ├── EN
+│   ├── base-features.md
+│   ├── ownership.md
+│   └── variable.md
 ├── LICENSE
 ├── README.md
 ├── README.zh-CN.md
 └── zh-CN
     ├── base-features.md
+    ├── compound-type.md
+    ├── flow-control.md
     ├── ownership.md
     └── variable.md
 
-2 directories, 6 files
+2 directories, 11 files
 ```
